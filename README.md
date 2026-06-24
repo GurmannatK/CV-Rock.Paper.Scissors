@@ -26,7 +26,7 @@ A fully playable Rock Paper Scissors game where MediaPipe tracks your hand landm
 
 ---
 
-## Screenshots
+## Assets/Screenshots
 
 | Gameplay | Result |
 |:---:|:---:|
