@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D2AF&center=true&vCenter=true&width=600&lines=✊+Rock+·+Paper+·+Scissors;Hand+Gesture+Recognition;Real-Time+Computer+Vision" alt="Typing SVG" />
-
 <br/>
 
 **A real-time hand gesture game powered by computer vision.**  
@@ -156,19 +154,8 @@ CV-Rock.Paper.Scissors/
 
 ---
 
-## Future Improvements
-
-- [ ] Online multiplayer over WebSockets
-- [ ] Custom gesture training mode
-- [ ] Round replay export as GIF
-- [ ] Configurable camera index via CLI (`--camera 1`)
-- [ ] High score persistence between sessions
-
----
-
 ## Author
 
-Built by **Gurmannat Kaur** — exploring computer vision and real-time game programming.
+Built by **Gurmannat Kaur** 
 
-- GitHub: [@GurmannatK](https://github.com/GurmannatK)
 - LinkedIn: [Gurmannat Kaur](https://www.linkedin.com/in/gurmannat-kaur-730841282)
